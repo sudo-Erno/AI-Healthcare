@@ -1,4 +1,4 @@
-# Ai-Healthcare
+# AI-Healthcare
 This is a repo containing AI models that where trained on differents datasets for differents objectives, such as Pneumonia detection.
 
 ### Tasks
