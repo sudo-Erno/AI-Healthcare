@@ -8,8 +8,8 @@ This is a repo containing AI models that where trained on differents datasets fo
 - [ ] Signal analysis
  
 ### Datasets:
-[Chest X-Ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
-[Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection).
+[Chest X-Ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)<br />
+[Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
 
 ### Homework
 - [ ] Improve models
